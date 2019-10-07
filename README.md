@@ -13,3 +13,11 @@ Meu grande interesse atual é a aplicação da IA na engenharia.
 * Mestrado em Engenharia Elétrica e Computação - _UNIOESTE_
 * Engenharia de Energia, 1 ano de graduação sanduíche na Itália - _Universitá di Pisa_
 * Graduação em Engenharia de Energia - _UNILA_
+
+## Experiência profissional
+### _Atual_
+* Residente do HUB em Inteligência Artificial Aplicada a Indústria - _SENAI-PR_
+### _Anteriores_
+* Professor substituto por breve período no curso de Engenharia Elétrica - _UDC Faculdades_
+* Bolsista de mestrado no Laboratório de Baterias - _Fundação Parque Tecnológico Itaipu - FPTI_
+* Estagiário no setor de produção - _Itaipu Binacional_
